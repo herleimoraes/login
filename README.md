@@ -1,2 +1,2 @@
 # login
- Estudo PHP: Sistema de Login simples com MySql
+ Estudo PHP: Sistema de Login simples
